@@ -18,7 +18,7 @@ Modulus is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic
 Resetting and rebuilding styles have been helped along thanks to the fine work of
 Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
 along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
-and Blueprint http://www.blueprintcss.org/ 
+and Blueprint http://www.blueprintcss.org/
 */
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -33,7 +33,7 @@ and Blueprint http://www.blueprintcss.org/
   5.2 Menus
 6.0 Media
   6.1 Captions
-  6.2 Galleries 
+  6.2 Galleries
 7.0 Modules
   7.1 Accessibility
   7.2 Alignments
@@ -760,7 +760,7 @@ a {
 5.2 Menus
 --------------------------------------------------------------*/
 .nav-wrap {
-  background: #03a9f4; }
+  background: red; }
 
 .main-navigation {
   display: block;
@@ -2919,11 +2919,11 @@ blockquote {
   margin-top: 0; }
 
 .site-footer {
-  background: #33363a; 
+  background: #33363a;
   text-align: right;}
   .site-footer .footer-widgets {
     color: #fff;
-    
+
     padding: 90px 0 50px; }
     .site-footer .footer-widgets h4.widget-title {
       color: #fff;
